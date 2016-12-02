@@ -1,9 +1,9 @@
 {
     "bridge": {
         "name": "Homebridge",
-        "username": "CC:22:3D:E3:CE:30",
+        "username": "CC:22:3D:E3:CE:32",
         "port": 51826,
-        "pin": "031-45-154"
+        "pin": "031-45-155"
     },
 
     "description": "Default Homebridge configuration",
